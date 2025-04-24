@@ -1,0 +1,8 @@
+{"problem1": {"dept_name": "Computer Science"},
+"problem2": {"year": "2017"},
+"problem5": {"course_id": "CS-001", "title": "Weekly Seminar"},
+"problem6": {"course_id": "CS-001", "semester": "Fall", "year": "2017"},
+"problem7": {"dept_name": "Computer Science", "section_id": 1, "course_id": "CS-001", 
+    "semester": "Fall", "year": "2017"},
+"problem8": {"ID": "12345"}
+}
